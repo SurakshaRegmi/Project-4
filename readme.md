@@ -16,7 +16,7 @@ Please note that this approach can be transferred to other detection analysis in
 - Data Processing
 - Exploratory Data Analysis
 - Model Selection and Training
-
+Prior to modelling, we found the dataset available is unbalanced meaning that the fraudulent transactions were minimal compared to the non-fraudulent transactions. Thereby, to balance the dataset, we applied random undersampling that involved randomly selecting examples from the majority class to delete from the training dataset.
 ----------------------
 ## Summary of Findings
 Three machine learning algorithms were used to train and test the dataset and were evaluated using different metrics for best performance. The best performance is achieved using random undersampling technique since the available dataset is unbalanced.
