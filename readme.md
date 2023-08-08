@@ -26,6 +26,9 @@ Three machine learning algorithms were used to train and test the dataset and we
 - Method - Findings - Summary
 ### MODEL 3 - Random Forest
 - Method - Findings - Summary
+### Conclusion
+Upon training and evaluating our classification model, we found that the Random Forest model performed the best.
+
 ----------------------
 ## Project Files
 ### - Main Folder
