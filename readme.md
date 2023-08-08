@@ -38,7 +38,7 @@ Upon training and evaluating our classification model, we found that the Random 
 ### - Output Data
 - [Fraud Data Summary](https://public.tableau.com/app/profile/micah.raquena.pequeno/viz/FraudDataSummary/FraudDataSummary?publish=yes)
 ----------------------
-## Instructions - final APP?
+## Instructions - final APP
 ----------------------
 Navigate to the repository for this project called Project4-Team6-Financial-Fraud-Analysis-using-Machine-Learning.
 
@@ -46,6 +46,12 @@ Connect the remote and local repositories through cloning .
 
 Pull the particular project by running the “git pull” command.
 
+Download the original dataset from https://www.kaggle.com/datasets/ealaxi/paysim1. 
+
+Run the data fetch from jupyter notebook file. 
+
+Run the files under Model to get the Machine Learning Models trained and tested.
+
 Please note: 
-For Random undersampling - install imblearn library
-For the Visualisation, please check  [Fraud Data Summary](https://public.tableau.com/app/profile/micah.raquena.pequeno/viz/FraudDataSummary/FraudDataSummary?publish=yes)
+- For Random undersampling - install imblearn library
+- For the Visualisation, please check  [Fraud Data Summary](https://public.tableau.com/app/profile/micah.raquena.pequeno/viz/FraudDataSummary/FraudDataSummary?publish=yes)
