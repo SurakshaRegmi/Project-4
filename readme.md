@@ -12,11 +12,10 @@ Please note that this approach can be transferred to other detection analysis in
 - Tattwamasi Ray
 ----------------------
 ## Project Overview
-Customers Transaction Datasets
-Collection and Business Understanding
-Data Processing
-Exploratory Data Analysis
-Model Selection and Training
+- Customers Transaction Datasets Collection and Business Understanding
+- Data Processing
+- Exploratory Data Analysis
+- Model Selection and Training
 - [Fraud Data Summary](https://public.tableau.com/app/profile/micah.raquena.pequeno/viz/FraudDataSummary/FraudDataSummary?publish=yes)
 ----------------------
 ## Summary of Findings
