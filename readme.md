@@ -37,3 +37,5 @@ Three machine learning algorithms were used to train and test the dataset and we
 ----------------------
 ## Instructions - final APP?
 ----------------------
+For random undersampling - install imblearn library
+Visualisation - Tableau
