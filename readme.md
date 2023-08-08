@@ -16,7 +16,7 @@ Please note that this approach can be transferred to other detection analysis in
 - Data Processing
 - Exploratory Data Analysis
 - Model Selection and Training
-- [Fraud Data Summary](https://public.tableau.com/app/profile/micah.raquena.pequeno/viz/FraudDataSummary/FraudDataSummary?publish=yes)
+
 ----------------------
 ## Summary of Findings
 Three machine learning algorithms were used to train and test the dataset and were evaluated using different metrics for best performance. The best performance is achieved using random undersampling technique since the available dataset is unbalanced.
@@ -33,7 +33,7 @@ Three machine learning algorithms were used to train and test the dataset and we
 ### - Resources
 - File: Description
 ### - Output Data
-- File Description
+- [Fraud Data Summary](https://public.tableau.com/app/profile/micah.raquena.pequeno/viz/FraudDataSummary/FraudDataSummary?publish=yes)
 ----------------------
 ## Instructions - final APP?
 ----------------------
