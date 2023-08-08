@@ -38,6 +38,7 @@ Upon training and evaluating our classification model, we found that the Random 
 - Cleaned CSV File
 ### - Output Data
 - [Fraud Data Summary](https://public.tableau.com/app/profile/micah.raquena.pequeno/viz/FraudDataSummary/FraudDataSummary?publish=yes)
+- [Fraud Model Summary](https://public.tableau.com/app/profile/micah.raquena.pequeno/viz/FraudDataSummary/ModelSummary?publish=yes)
 ----------------------
 ## Instructions - final APP
 ----------------------
