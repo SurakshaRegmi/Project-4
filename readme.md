@@ -40,5 +40,12 @@ Upon training and evaluating our classification model, we found that the Random 
 ----------------------
 ## Instructions - final APP?
 ----------------------
-For random undersampling - install imblearn library
-Visualisation - Tableau
+Navigate to the repository for this project called Project4-Team6-Financial-Fraud-Analysis-using-Machine-Learning.
+
+Connect the remote and local repositories through cloning .
+
+Pull the particular project by running the “git pull” command.
+
+Please note: 
+For Random undersampling - install imblearn library
+For the Visualisation, please check  [Fraud Data Summary](https://public.tableau.com/app/profile/micah.raquena.pequeno/viz/FraudDataSummary/FraudDataSummary?publish=yes)
