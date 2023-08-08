@@ -32,9 +32,10 @@ Upon training and evaluating our classification model, we found that the Random 
 ----------------------
 ## Project Files
 ### - Main Folder
-- File: Description
+- Model: Consists of three Machine Learning Models(Logistic Regression, K-Nearest Neighbors and Random Forest) trained and tested
+- Archive: Consists of jupyter notebook file 
 ### - Resources
-- File: Description
+- Cleaned CSV File: Description
 ### - Output Data
 - [Fraud Data Summary](https://public.tableau.com/app/profile/micah.raquena.pequeno/viz/FraudDataSummary/FraudDataSummary?publish=yes)
 ----------------------
