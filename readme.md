@@ -12,16 +12,20 @@ Please note that this approach can be transferred to other detection analysis in
 - Tattwamasi Ray
 ----------------------
 ## Project Overview
-
+Customers Transaction Datasets
+Collection and Business Understanding
+Data Processing
+Exploratory Data Analysis
+Model Selection and Training
 - [Fraud Data Summary](https://public.tableau.com/app/profile/micah.raquena.pequeno/viz/FraudDataSummary/FraudDataSummary?publish=yes)
 ----------------------
 ## Summary of Findings
-Brief Description overall and which Model used for final tool
-### MODEL 1
+Three machine learning algorithms were used to train and test the dataset and were evaluated using different metrics for best performance.
+### MODEL 1 - Logistic Regression
 - Method - Findings - Summary
-### MODEL 2
+### MODEL 2 - K-Nearest Neighbors
 - Method - Findings - Summary
-### MODEL 3
+### MODEL 3 - Random Forest
 - Method - Findings - Summary
 ----------------------
 ## Project Files
