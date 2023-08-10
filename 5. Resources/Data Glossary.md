@@ -1,24 +1,29 @@
 ## Glossary
 
-step - maps a unit of time in the real world. In this case 1 step is 1 hour of time. Total steps 744 (30 days simulation).
+"Synthetic Financial Datasets For Fraud Detection"
+[Kaggle Data Source](https://www.kaggle.com/datasets/ealaxi/paysim1)
 
-type - CASH-IN, CASH-OUT, DEBIT, PAYMENT and TRANSFER.
+### y Class
+- isFraud: Indicates whether the transaction is associated with fraudulent behavior. In this dataset, fraudulent transactions involve agents attempting to take control of customer accounts and siphon funds through transfers and cash-outs.
 
-amount -
-amount of the transaction in local currency.
+### Independent Variables
 
-nameOrig - customer who started the transaction
+- Step: A unit of time in the real world. In this simulation, each step represents one hour. The total number of steps is 744, equivalent to 30 days.
 
-oldbalanceOrg - initial balance before the transaction
+- Type: Denotes the type of transaction, which could be one of the following: CASH-IN, CASH-OUT, DEBIT, PAYMENT, and TRANSFER.
 
-newbalanceOrig - new balance after the transaction.
+- Amount: The value of the transaction in the local currency.
 
-nameDest - customer who is the recipient of the transaction
+- nameOrig: The customer who initiated the transaction.
 
-oldbalanceDest - initial balance recipient before the transaction. Note that there is not information for customers that start with M (Merchants).
+- oldbalanceOrg: The initial balance of the originator's account before the transaction.
 
-newbalanceDest - new balance recipient after the transaction. Note that there is not information for customers that start with M (Merchants).
+- newbalanceOrig: The new balance of the originator's account after the transaction.
 
-isFraud - This is the transactions made by the fraudulent agents inside the simulation. In this specific dataset the fraudulent behavior of the agents aims to profit by taking control or customers accounts and try to empty the funds by transferring to another account and then cashing out of the system.
+- nameDest: The recipient of the transaction.
 
-isFlaggedFraud - The business model aims to control massive transfers from one account to another and flags illegal attempts. An illegal attempt in this dataset is an attempt to transfer more than 200.000 in a single transaction.
+- oldbalanceDest: The initial balance of the recipient's account before the transaction. Not applicable to accounts starting with 'M' (Merchants).
+
+- newbalanceDest: The new balance of the recipient's account after the transaction. Not applicable to accounts starting with 'M' (Merchants).
+
+- isFlaggedFraud: Part of the business model aimed at identifying suspicious transactions. Transactions are flagged as fraudulent attempts if they involve transferring more than 200,000 in a single transaction.
