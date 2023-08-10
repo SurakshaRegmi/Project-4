@@ -1,0 +1,35 @@
+/* Apply styles to the prediction container */
+.prediction-container {
+    text-align: center;
+    background-color: #f5f5f5;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: darkred;
+  }
+  
+  /* Apply styles to the input rows */
+  .input-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  /* Apply styles to the input boxes */
+  .input-box {
+    flex: 1;
+    margin-right: 20px;
+  }
+  
+  .input-box input {
+    width: 100%;
+    font-size: 16px;
+    padding: 10px;
+  }
+  
+  /* Apply styles to the form */
+  form {
+    margin: 0 auto;
+    max-width: 800px;
+  }
+  

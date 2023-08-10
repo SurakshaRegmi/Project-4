@@ -1,6 +1,7 @@
 # Logistic Regression Model Analysis
 
-This section provides a comprehensive analysis of the Logistic Regression model's performance in detecting fraudulent transactions. The evaluation is based on the provided confusion matrix, classification report, accuracy, and key features.
+This section provides a comprehensive analysis of the Logistic Regression model's performance in detecting fraudulent transactions.  
+The evaluation is based on the provided confusion matrix, classification report, accuracy, and key features.
 
 ## Confusion Matrix
 
@@ -26,7 +27,7 @@ The classification report presents precision, recall, and F1-score for each clas
 
 ## Accuracy
 
-The accuracy of the model is 0.860, indicating that approximately 86.0% of instances are correctly predicted.
+The accuracy of the model is 0.860, indicating that approximately 86.0% of instances are correctly predicted.  
 
 ## Key Features
 
@@ -36,8 +37,8 @@ The model's performance relies on the following features:
 
 ## Conclusion
 
-- The model excels in accurately identifying non-fraudulent transactions (class 0) with high precision.
-- Precision for fraudulent transactions (class 1) is notably low, leading to a relatively low F1-score for this class.
-- The model's recall for fraudulent transactions is relatively better, indicating successful detection of a substantial portion of actual fraudulent cases.
-- The model's accuracy may be influenced by class imbalance, favoring the majority class.
-- Further exploration of feature engineering, model tuning, and techniques for handling imbalanced data could potentially enhance the model's ability to detect fraudulent transactions.
+- The model excels in accurately identifying non-fraudulent transactions (class 0) with high precision.  
+- Precision for fraudulent transactions (class 1) is notably low, leading to a relatively low F1-score for this class.  
+- The model's recall for fraudulent transactions is relatively better, indicating successful detection of a substantial portion of actual fraudulent cases.  
+- The model's accuracy may be influenced by class imbalance, favoring the majority class.    
+- Further exploration of feature engineering, model tuning, and techniques for handling imbalanced data could potentially enhance the model's ability to detect fraudulent transactions.  
